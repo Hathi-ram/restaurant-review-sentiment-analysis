@@ -106,41 +106,34 @@ streamlit run app.py
 
 ### 1. Home Page
 
-(Add screenshot here)
+## <img width="2832" height="1514" alt="image" src="https://github.com/user-attachments/assets/382b6a53-d92b-4d37-a6ee-8df5fed7960a" />
 
-![Home Page](images/home.png)
 
 ---
 
 ### 2. Sentiment Prediction
 
-(Add screenshot here)
+## <img width="2824" height="1498" alt="image" src="https://github.com/user-attachments/assets/d10d1f02-a3f3-46fe-8301-7e9e7b230ef8" />
 
-![Prediction Result](images/prediction.png)
+
 
 ---
 
 ### 3. Confidence Score & Pie Chart
 
-(Add screenshot here)
+## <img width="2846" height="1502" alt="image" src="https://github.com/user-attachments/assets/d514d970-45ec-4685-9edb-e8b4cc921007" />
 
-![Confidence Score](images/confidence.png)
 
----
-
-### 4. Top Important Words
-
-(Add screenshot here)
-
-![Important Words](images/important_words.png)
 
 ---
 
-### 5. Prediction History
+### 4. Top Important Words and  Prediction History
 
 (Add screenshot here)
 
-![Prediction History](images/history.png)
+
+---
+## <img width="2878" height="1502" alt="image" src="https://github.com/user-attachments/assets/ed3d45ee-8d17-458f-baf1-4a1d2a69b67c" />
 
 ---
 
