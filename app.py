@@ -1,5 +1,6 @@
 import streamlit as st
 import joblib
+import os
 import re
 import nltk
 import matplotlib.pyplot as plt
@@ -11,8 +12,13 @@ from nltk.stem.porter import PorterStemmer
 nltk.download("stopwords")
 
 # Load model and vectorizer
-model = joblib.load("best_sentiment_model.pkl")
-cv = joblib.load("vectorizer.pkl")
+BASE_DIR = os.path.dirname(__file__)
+
+model_path = os.path.join(BASE_DIR, "best_sentiment_model.pkl")
+vectorizer_path = os.path.join(BASE_DIR, "vectorizer.pkl")
+
+model = joblib.load(model_path)
+cv = joblib.load(vectorizer_path)
 
 # Stemmer
 ps = PorterStemmer()
