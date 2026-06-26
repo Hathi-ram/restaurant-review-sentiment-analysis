@@ -19,7 +19,8 @@ The model processes customer reviews, cleans the text, converts it into numerica
 This helps understand customer feedback automatically.
 
 ---
-## <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/338a72d8-ab06-46d3-b907-d544afea338c" />
+## <img width="2832" height="1514" alt="image" src="https://github.com/user-attachments/assets/382b6a53-d92b-4d37-a6ee-8df5fed7960a" />
+
 
 ## Features
 
