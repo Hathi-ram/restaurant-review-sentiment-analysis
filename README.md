@@ -2,7 +2,11 @@
 
 A Machine Learning-based web application that analyzes restaurant reviews and predicts whether the sentiment is **Positive** or **Negative** using Natural Language Processing (NLP).
 
-Built with **Python**, **Streamlit**, **TF-IDF Vectorization**, and **Logistic Regression**.
+Built with 
+**Python**, 
+**Streamlit**, 
+**TF-IDF Vectorization**, 
+**Logistic Regression**.
 
 ---
 
@@ -18,17 +22,17 @@ This helps understand customer feedback automatically.
 
 ## Features
 
-✅ Text preprocessing
-✅ Stopword removal
-✅ Stemming using PorterStemmer
-✅ TF-IDF vectorization
-✅ Sentiment prediction
-✅ Confidence score visualization
-✅ Sentiment probability pie chart
-✅ Top important words explanation
-✅ Prediction history
-✅ CSV export
-✅ Interactive Streamlit UI
+Text preprocessing
+Stopword removal
+Stemming using PorterStemmer
+TF-IDF vectorization
+Sentiment prediction
+Confidence score visualization
+Sentiment probability pie chart
+Top important words explanation
+Prediction history
+CSV export
+Interactive Streamlit UI
 
 ---
 
@@ -63,17 +67,6 @@ The following machine learning models were trained and compared:
 * Joblib
 
 ---
-
-## Project Structure
-
-restaurant-review-sentiment-analysis/
-│── app.py
-│── best_sentiment_model.pkl
-│── vectorizer.pkl
-│── Restaurant_Reviews.tsv
-│── profile.jpg
-│── requirements.txt
-│── README.md
 
 ## Installation
 
