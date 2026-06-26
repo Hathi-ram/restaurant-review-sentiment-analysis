@@ -2,6 +2,12 @@
 
 A Machine Learning-based web application that analyzes restaurant reviews and predicts whether the sentiment is **Positive** or **Negative** using Natural Language Processing (NLP).
 
+## Live Demo
+
+Try the live app here:  
+[Click Here to Use the App](https://restaurant-review-app.streamlit.app/)
+
+
 Built with
 
 **Python**,
