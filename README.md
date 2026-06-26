@@ -3,9 +3,9 @@
 A Machine Learning-based web application that analyzes restaurant reviews and predicts whether the sentiment is **Positive** or **Negative** using Natural Language Processing (NLP).
 
 Built with 
-**Python**, 
-**Streamlit**, 
-**TF-IDF Vectorization**, 
+**Python**,\ 
+**Streamlit**,\ 
+**TF-IDF Vectorization**,\ 
 **Logistic Regression**.
 
 ---
