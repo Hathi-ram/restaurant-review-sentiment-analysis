@@ -19,6 +19,8 @@ The model processes customer reviews, cleans the text, converts it into numerica
 This helps understand customer feedback automatically.
 
 ---
+![Uploading image.png…]()
+
 
 ## Features
 
